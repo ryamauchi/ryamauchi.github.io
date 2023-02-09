@@ -9,3 +9,5 @@ layout: home
 ![portrait](/assets/portrait.jpg)
 
 Organization: ALBERT Inc.
+
+I am interested in Deep Learning and 3D computer vision. I would like to give inductive bias to neural networks.
