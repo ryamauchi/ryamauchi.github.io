@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+# Ryutaro YAMAUCHI
+
+![portrait](/assets/portrait.jpg)
+Organization: ALBERT Inc.
